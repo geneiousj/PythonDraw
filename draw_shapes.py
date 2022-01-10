@@ -1,6 +1,5 @@
-# My name is Jaskeerat Singh and my student number is 251030244.
-import turtle
 
+import turtle
 
 
 def prepare_to_draw(position_x,position_y,colour):
