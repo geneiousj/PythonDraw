@@ -1,4 +1,3 @@
-# My name is Jaskeerat Singh and my student number is 251030244.
 import area_calculation
 import draw_shapes
 
